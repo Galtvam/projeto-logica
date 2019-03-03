@@ -16,11 +16,16 @@ Dado o conjunto de afirmações a seguir:
     Chloé chantagea todos os empresários que são apaixonados por Lana.
 
 
-Primeira tarefa: Expresse essas afirmações em lógica de primeira ordem.
+Primeira tarefa: 
+    
+    Expresse essas afirmações em lógica de primeira ordem.
 
-Segunda tarefa: Faça um programa em Prolog para expressar essas afirmações.
+Segunda tarefa: 
+    
+    Faça um programa em Prolog para expressar essas afirmações.
 
-Terceira tarefa: 
+Terceira tarefa:
+
     Faça consultas para o seu programa a fim de responder a pergunta:
       Quem são os personagens de uma série de TV?
       Quem são os irmãos perdidos de Clark?
