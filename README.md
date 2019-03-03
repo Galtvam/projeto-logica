@@ -20,8 +20,9 @@ Primeira tarefa: Expresse essas afirmações em lógica de primeira ordem.
 
 Segunda tarefa: Faça um programa em Prolog para expressar essas afirmações.
 
-Terceira tarefa: Faça consultas para o seu programa a fim de responder a pergunta:
-    Quem são os personagens de uma série de TV?
-    Quem são os irmãos perdidos de Clark?
+Terceira tarefa: 
+    Faça consultas para o seu programa a fim de responder a pergunta:
+      Quem são os personagens de uma série de TV?
+      Quem são os irmãos perdidos de Clark?
 
 No seu relatório, apresente o resultado de trace para cada uma dessas perguntas.
